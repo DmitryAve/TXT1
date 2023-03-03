@@ -1,0 +1,6 @@
+hobby information: 
+		Favorite movie: Terminator
+		Favorite TV series: Peaky Blinders
+		Favorite food: Caesar
+		Favorite season: Summer
+		Country you would like to visit: USA
